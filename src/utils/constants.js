@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://ziggystore.com/cdn/shop/files/Logo_ZIGGY_RGB.png?v=1709754407&width=2048";
