@@ -1,1 +1,3 @@
-export const LOGO_URL = "https://ziggystore.com/cdn/shop/files/Logo_ZIGGY_RGB.png?v=1709754407&width=2048";
+export const LOGO_URL = "https://res.cloudinary.com/dtzupm1el/image/upload/v1760946092/ziggy_vflfkl.png";
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_264,h_288,c_fill/";
+export const SWIGGY_API = "https://www.swiggy.com/dapi/restaurants/search/v3?lat=18.508934&lng=73.92591019999999&str=Restaurant&trackingId=22635617-b89f-c877-02c6-ce500d6449f6&submitAction=ENTER&queryUniqueId=3bffb4f5-1f60-078e-2d1f-d929bae6d7db";
